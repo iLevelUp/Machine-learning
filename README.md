@@ -1,5 +1,5 @@
 # Machine-learning
-SOM "SELF ORGANIZING MAP" From Scratch
+Le Self-Organizing Map SOM
 
 Loïc LOKO
 lloicloko@gmail.com
