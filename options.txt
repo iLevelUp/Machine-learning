@@ -1,0 +1,9 @@
+rayon = 3
+rayon2 = 1
+vecteur de doubles = 4
+nombre d'itération = 500
+nombre d'itération2 = 1500
+alpha = 0.8
+alpha2 = 0.08
+vecteur mini = 0.02
+vecteur maxi = 0.05
